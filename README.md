@@ -1,1 +1,1 @@
-# git-sample
+# Git Basics
