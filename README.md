@@ -2,4 +2,4 @@
 
 * git checkout
 * git push
-* git pull
+* git pull --rebase
